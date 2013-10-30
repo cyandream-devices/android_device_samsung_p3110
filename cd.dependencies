@@ -18,5 +18,10 @@
     {
         "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
         "target_path": "packages/apps/SamsungServiceMode"
+    },
+    {
+        "repository": "TheMuppets/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "cm-10.2"
     }
 ]
