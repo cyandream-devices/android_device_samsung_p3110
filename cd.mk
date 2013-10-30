@@ -15,7 +15,7 @@
 #
 
 ## Specify phone tech before including full_phone
-$(call inherit-product, vendor/cm/config/gsm.mk)
+$(call inherit-product, vendor/cyandream/config/gsm.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := p3110
@@ -24,8 +24,8 @@ PRODUCT_RELEASE_NAME := p3110
 TARGET_SCREEN_HEIGHT := 1024
 TARGET_SCREEN_WIDTH := 600
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
+# Inherit some common CD stuff.
+$(call inherit-product, vendor/cyandream/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/p3110/full_p3110.mk)
