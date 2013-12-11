@@ -1,16 +1,11 @@
 [
     {
-        "repository": "codyf86/android_device_samsung_p3100",
-        "target_path": "device/samsung/p3100",
-        "branch": "cm-11.0"
-    },
-    {
-        "repository": "CyanDreamProject/android_device_samsung_omap4-common",
+        "repository": "cyandream-devices/android_device_samsung_omap4-common",
         "target_path": "device/samsung/omap4-common",
-        "branch": "cm-11.0"
+        "branch": "cd-4.4"
     },
     {
-        "repository": "CyanDreamProject/android_kernel_samsung_espresso10",
+        "repository": "cyandream-devices/android_kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
         "branch": "cm-11.0"
     },
