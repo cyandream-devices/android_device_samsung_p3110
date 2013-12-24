@@ -26,7 +26,7 @@
     },
     {
         "repository": "cyandream-devices/android_device_samsung_p3100",
-        "target_path": "device/samsung/p3100"
+        "target_path": "device/samsung/p3100",
         "branch": "cm-11.0"
     }
 ]
